@@ -140,14 +140,4 @@ st.markdown(f"""
             filter: invert(70%) sepia(90%) saturate(500%) hue-rotate(180deg);
         }}
     </style>
-    <div class="footer">
-        <p>© {current_year} Aditya Manwatkar |  
-        <a href="https://github.com/Aditya-Manwatkar" target="_blank">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"> GitHub
-        </a> |  
-        <a href="https://www.linkedin.com/in/aditya-manwatkar/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"> LinkedIn
-        </a>
-        </p>
-    </div>
 """, unsafe_allow_html=True)
