@@ -1,7 +1,7 @@
-# 🌱 Optimal Water Requirement Prediction for Agricultural Farms  
+# 🌱 Predicting-Water-Usage-in-Agriculture-using-Big-data  
 
 ## 📖 Overview  
-This Streamlit-based web application predicts the **optimal water requirement** for different crops based on **environmental conditions and soil properties**. The project uses a **Random Forest Regressor model** trained on agricultural data to provide accurate water recommendations.  
+This Streamlit-based web application predicts the **Predicting-Water-Usage-in-Agriculture-using-Big-data** for different crops based on **environmental conditions and soil properties**. The project uses a **Random Forest Regressor model** trained on agricultural data to provide accurate water recommendations.  
 
 ## 🚀 Features  
 - 🌡️ **Environmental Inputs**: Temperature, humidity, wind speed, etc.  
@@ -13,13 +13,12 @@ This Streamlit-based web application predicts the **optimal water requirement** 
 
 
 ## 🌍 Live Application  
-🔗 **Try it here:** [Optimal Water Requirement Predictor](https://huggingface.co/spaces/adityamanwatkar/optimal_water_usage_prediction) 
 
 ## 🛠️ Installation  
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/Aditya-Manwatkar/Optimal-Water-Requirement-Prediction-for-Agricultural-Farms.git
-cd Optimal-Water-Requirement-Prediction-for-Agricultural-Farms
+git clone https://github.com/d2h5a0r5a0n3/Predicting-Water-Usage-in-Agriculture-using-Big-data
+cd Predicting-Water-Usage-in-Agriculture-using-Big-data
 ```
 
 ### **2️⃣ Install Dependencies**  
@@ -61,9 +60,6 @@ streamlit run app.py
 - **Pandas, NumPy** 📊  
 - **Joblib** (for model persistence)  
 
-## ✨ Author  
-👤 **LinkedIN**:[Aditya Manwatkar](https://www.linkedin.com/in/aditya-manwatkar/)
-🔗 **GitHub**: [Aditya-Manwatkar](https://github.com/Aditya-Manwatkar)  
 
 ## 📜 License  
 This project is **open-source** and available under the **MIT License**.  
